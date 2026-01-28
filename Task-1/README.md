@@ -23,7 +23,7 @@ Missing Headers:
 ❌ Permissions-Policy
 2️⃣ ZAP Scan Results
 Successfully crawled IPL website
-Discovered endpoints like:
+Discovered endpoints:
 /assets/
 /matches/
 /stats/
