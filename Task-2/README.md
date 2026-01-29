@@ -1,0 +1,55 @@
+# Task-2 – Phishing Email Detection & Awareness Report
+
+## 👤 Intern Details
+**Name:** Koduru Thejesh Naidu  
+**CIN ID:** FIT/JAN26/CS5575  
+**Program:** Cyber Security Internship – Future Interns  
+
+---
+
+## 🎯 Objective
+Analyze phishing email samples, identify phishing indicators, classify risk levels, and create a clear awareness report to help users avoid phishing attacks.
+
+---
+
+## 🧩 Steps Performed
+1. Collected phishing email examples  
+2. Analyzed email headers  
+3. Inspected sender domains & URLs  
+4. Identified phishing indicators  
+5. Classified emails as **Safe / Suspicious / Phishing**  
+6. Documented findings  
+7. Created prevention & awareness guidelines  
+
+---
+
+## 🛠 Tools Used
+- Public phishing email samples  
+- Email Header Analyzer (Google Toolbox / MXToolbox)  
+- Browser tools to inspect domains & URLs  
+- Google Docs / MS Word / PDF for report creation  
+
+---
+
+## 📌 Findings Included
+- Spoofed sender domain  
+- Fake or dangerous links  
+- Urgent or fear-based language  
+- Generic greetings  
+- Risk classification  
+- Screenshots of suspicious emails  
+
+---
+
+## 🧾 Files in Task-2 Folder
+- Phishing Report (PDF or DOC)
+- Email screenshots
+- Any header analysis screenshots
+- README.md
+
+---
+
+## ✅ Conclusion
+Completed phishing analysis for Task-2 by identifying red flags, classifying risk, explaining attack method in simple language, and preparing awareness guidelines.
+
+
