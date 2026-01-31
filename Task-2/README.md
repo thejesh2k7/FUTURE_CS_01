@@ -42,9 +42,7 @@ Analyze phishing email samples, identify phishing indicators, classify risk leve
 ---
 
 ## 🧾 Files in Task-2 Folder
-- Phishing Report (PDF or DOC)
-- Email screenshots
-- Any header analysis screenshots
+- phishing_email_1.jpg
 - README.md
 
 ---
