@@ -48,6 +48,6 @@ Analyze phishing email samples, identify phishing indicators, classify risk leve
 ---
 
 ## ✅ Conclusion
-Completed phishing analysis for Task-2 by identifying red flags, classifying risk, explaining attack method in simple language, and preparing awareness guidelines.
+Completed phishing analysis for Task-2 by identifying major phishing indicators, checking sender authenticity, analyzing suspicious URLs, classifying the email as phishing, and creating awareness guidelines to help users avoid similar attacks.
 
 
